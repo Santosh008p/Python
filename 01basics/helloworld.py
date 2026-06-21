@@ -21,3 +21,6 @@ print("You are", age, "years old")
 
 num1=input("Enter first number: ")
 num2=input("Enter second number: ")
+
+print("----0")
+print("||||")
