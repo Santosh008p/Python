@@ -4,7 +4,7 @@ for i in range(1,n):
     print(i)
 
 #2. Write a program to display all natural numbers from 1 to n in reverse order.
-for i in range(n,1):
+for i in range(n,1,-1):
     print(i)
 
 #3. Write a program to display all even numbers from 1 to n.
